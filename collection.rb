@@ -1,1 +1,2 @@
 class Collection
+  include Enumerable
